@@ -9,7 +9,7 @@ EXE格式（计划于10月1日起停止维护，目前已经停止在微信公�
 
 CZDB格式（正式发布支持IPv4和IPv6地理位置的全新CZDB数据格式，并计划从2024年10月开始只维护更新该格式的数据）
 
-CZDB目前已支持JAVA和C语言解析程：
+CZDB目前已支持语言解析程序：
 
 JAVA解析程序 https://github.com/tagphi/czdb-search-java
 

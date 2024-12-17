@@ -17,6 +17,10 @@ C语言解析程序 https://github.com/tagphi/czdb-search-c
 
 PHP语言解析程序 https://github.com/tagphi/czdb-search-c
 
+Node.js语言解析程序 https://github.com/limkim0530/czdb-search-node
+
+Python语言解析程序 https://github.com/tagphi/czdb_searcher_python
+
 后续免费获取纯真社区版IP库的方式
 
 纯真社区版IP库根据知识共享署名-相同方式共享 4.0 国际许可证（BY-SA 4.0 DEED）公开发布。如您需要使用纯真社区版IP库，您可在使用该数据的网站、应用程序或社交媒体帐户上显示纯真网站信息，以此获得该IP库的使用授权以及后续的更新下载服务。
